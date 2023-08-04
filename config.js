@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['0','447405935355']
+var ownernum = ['923206629195']
 //-------------
 
 
@@ -77,15 +77,15 @@ global.APIKeys = {
    
    //---------------------------------------------------------------------
 
-   global.sudo = ['447405935355']
+   global.sudo = ['923206629195']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['923206629195']
 
    //---------------------------------------------------------------------
    
-   global.packname = 'ＡＬＩＥＮ' 
+   global.packname = 'C O M R A D E ' 
    //-------------
-   global.author = 'ＡＬＦＡ'
+   global.author = 'F A R A Z '
 
    //---------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ global.APIKeys = {
 
    global.linkbuttid1 = 'ɪɴꜱᴛᴀɢʀᴀᴍ' 
    //-------------
-   global.butturl1 = 'https://www.instagram.com/alienalfa/'
+   global.butturl1 = ''
    
    //---------------------------------------------------------------------
 
@@ -107,7 +107,7 @@ global.APIKeys = {
 
    global.linkbuttid2 = 'ʏᴏᴜᴛᴜʙᴇ'
    //-------------
-   global.butturl2 = 'https://youtube.com/c/alienalfa'
+   global.butturl2 = ''
    
    //---------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ global.APIKeys = {
 
    global.linktext = 'ꜱᴜʙꜱᴄʀɪʙᴇ ᴛᴏ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ'
    //-------------
-   global.linkurl = 'https://youtube.com/c/alienalfa'
+   global.linkurl = ''
    
    //---------------------------------------------------------------------
 
@@ -129,7 +129,7 @@ global.APIKeys = {
 
    //--------------------- MAIN IMAGE  ------------------------
 
-   global.profileimage = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true'
+   global.profileimage = 'https://i.imgur.com/PJ3Nh6U.jpg'
       
    //---------------------------------------------------------------------
 
@@ -185,7 +185,7 @@ global.APIKeys = {
 //============ MAIN ============//
 
 //-------------
-global.premium = [`${ownernum}`]
+global.premium = [`923206629195`]
 //-------------
 global.sessionName = 'session.alfa'
 //-------------
@@ -193,31 +193,31 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 //-------------
 global.sp = '𒆜'
 //-------------
-global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.devname = C O M R A D E  F A R A Z '
 //-------------
-global.devNum = ['447405935355']
+global.devNum = ['923206629195']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
 global.listicon = '✩' 
 //-------------
-global.wm = 'ＡＬＩＥＮ ＡＬＦＡ' 
+global.wm = 'C O M R A D E  F A R A Z' 
 //-------------
-global.botname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.botname = 'C O M R A D E  F A R A Z'
 //-------------
 global.icon = '✩' 
 //-------------
-global.mail = 'AlienAlfa.YT@gmail.com'
+global.mail = 'farazjanbaloch222@gmail.com'
 //-------------
 global.youtube = 'https://youtube.com/c/alienalfa'
 //-------------
 global.github = 'https://github.com/Alien-alfa/' 
 //-------------
-global.insta = 'https://www.instagram.com/alienalfa/' 
+global.insta = '' 
 //-------------
-global.linkname = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼'
+global.linkname = 'C O M R A D E  F A R A Z'
 //-------------
-global.mainfooter = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' 
+global.mainfooter = 'C O M R A D E  F A R A Z' 
 //-------------
 global.herokuapi = '' 
 //-------------
@@ -230,15 +230,15 @@ global.herokuapp = ''
 //============ Modz ============//
 
 //-------------
-global.welcomeactive =  true
+global.welcomeactive =  false
 //-------------
-global.alivemess = false
+global.alivemess = true
 //-------------
-global.aliveimage = false
+global.aliveimage = ftrue
 //-------------
 global.speedmode =  'active'
 //-------------
-global.ownermess = 'ʜᴇʏ ᴛʜɪꜱ ɪꜱ ᴍʏ ᴏᴡɴᴇʀ, ᴘʟᴇᴀꜱᴇ ᴛᴀʟᴋ ɪɴ ᴇɴɢʟɪꜱʜ'
+global.ownermess = 'YE MERA OWNER HAI BHAI'
 //-------------
 global.autoread = false 
 //-------------
@@ -252,15 +252,15 @@ global.anticall = false
 global.thumb = fs.readFileSync('./lib/lowdb/adapters/alfa.jpg')
 
 global.mess = {
-    success: 'ᴅᴏɴᴇ',
-    errr: 'err',
+    success: 'DOMNE',
+    errr: 'YAR ERROR AGYA ',
     admin: 'ᴏɴʟʏ ᴀᴅᴍɪɴ',
-    botAdmin: 'ɪ ᴡɪʟʟ ᴅᴏ ɪᴛ, ᴍᴀᴋᴇ ᴍᴇ ᴀɴ ᴀᴅᴍɪɴ!',
-    owner: 'ᴏᴡɴᴇʀ ᴄᴏᴍᴍᴀɴᴅ!',
-    group: 'ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ᴀ ɢʀᴏᴜᴘ ᴄʜᴀᴛ!',
-    private: 'ᴛʜɪꜱ ɪꜱ ᴀ ɢʀᴏᴜᴘ, ᴜꜱᴇ ɪᴛ ɪɴ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ!',
+    botAdmin: 'ADMIN TO BANA BSDK',
+    owner: 'OWNER KA COMMAND HAI TU Q DAL RHA HAI',
+    group: 'GROUP SAMJHA HAI KIYA YHAN',
+    private: 'ARE GROUP HAI YAR PRIVATE MAI CHALA LE ',
     bot: '',
-    wait: 'ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ...',
+    wait: 'WAIMT KAR ',
     endLimit: 'ʏᴏᴜʀ ᴅᴀɪʟʏ ʟɪᴍɪᴛ ʜᴀꜱ ᴇxᴘɪʀᴇᴅ, ᴛʜᴇ ʟɪᴍɪᴛ ᴡɪʟʟ ʙᴇ ʀᴇꜱᴇᴛ ᴇᴠᴇʀʏ 12 ʜᴏᴜʀꜱ',
     notext: 'ᴇɴᴛᴇʀ ꜱᴇᴀʀᴄʜ ʟɪɴᴋꜱ!',
 }
